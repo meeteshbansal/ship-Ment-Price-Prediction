@@ -3,6 +3,6 @@ pandas
 scikit-learn
 flask
 streamlit
-joblib
+
 matplotlib
 seaborn
